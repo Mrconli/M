@@ -1,0 +1,16 @@
+[
+  {
+    "pt_pin": "京东pin值",
+    "remarks": "昵称",
+    "address": {
+      "receiver": "地址姓名",
+      "phone": "地址号码",
+      "province": "省份",
+      "city": "地级市",
+      "county": "区县",
+      "address": "详细地址",
+      "postalCode": "邮编",
+      "areaCode": "身份码"
+    }
+  }
+]
