@@ -7,4 +7,4 @@ gifts.csv是抽奖记录文件
 不知道怎么用！！！就是备份一下。
 
 
-拉库：ql repo https://github.com/Mrconli/M.git "account|gifts|h5sts|jdCookie|magic|notify|sendNotify" "account|gifts|h5sts|jdCookie|magic|notify|sendNotify"
+拉库：ql repo https://github.com/Mrconli/M.git "account|gifts|h5sts|jdCookie|magic|notify|sendNotify" "" "account|gifts|h5sts|jdCookie|magic|notify|sendNotify" "" "csv|js|py|json"
